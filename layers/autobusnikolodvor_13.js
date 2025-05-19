@@ -1,0 +1,1 @@
+var json_autobusnikolodvor_13 = {"type":"FeatureCollection","name":"autobusnikolodvor_13","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1"},"geometry":{"type":"Point","coordinates":[15.23868258192967,44.1076375409299]}}]}

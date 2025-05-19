@@ -1,0 +1,1 @@
+var json_moreklipano_0 = {"type":"FeatureCollection","name":"moreklipano_0","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}
